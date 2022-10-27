@@ -32,7 +32,7 @@
 
     .youtube .twitch-chat{
         width: 25%;
-        height: auto;
+        height: 100%;
         position: absolute;
         top: 0;
         right: 0;
